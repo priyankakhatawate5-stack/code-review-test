@@ -28,3 +28,4 @@ def very_long_function():
     line10 = 10
     return line1 + line2 + line3
 # test
+password = 'abc123'
