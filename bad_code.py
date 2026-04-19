@@ -29,3 +29,5 @@ def very_long_function():
     return line1 + line2 + line3
 # test
 # test
+def dummy_function():
+    if True:
