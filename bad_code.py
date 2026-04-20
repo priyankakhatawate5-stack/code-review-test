@@ -28,3 +28,7 @@ def very_long_function():
     line10 = 10
     return line1 + line2 + line3
 # test
+
+def unused_function():
+    print("This function is never called")
+    continue
