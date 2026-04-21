@@ -36,3 +36,8 @@ def unused_function():
 def unused_function():
     print("This function is never called")
     continue
+
+def unused_function():
+    if True:
+        print("This function is never called")
+    continue
