@@ -32,3 +32,7 @@ def very_long_function():
 def unused_function():
     print("This function is never called")
     continue
+
+def unused_function():
+    print("This function is never called")
+    continue
